@@ -1,16 +1,18 @@
 import React from 'react'
+import '../Assets/css/ProductX.css'
 
 const ProductX = () => {
+    
   return (
     <div>
  <main class="main">
         <div class="card-product-container container">
             <div class="card-product">
-                <h2>Up to 60% off | Styles for Men</h2>
+                <h2>Up to 10% off | Electronics</h2>
                 <div class="card-product-nested-card">
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-1-186-116._SY116_CB636110853_.jpg" />
+                            src="" />
                         <p>clothing</p>
                     </div>
                     <div class="card-nested">

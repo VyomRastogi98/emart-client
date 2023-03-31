@@ -1,11 +1,15 @@
 import React from 'react'
+import logo from '../Assets/Images/cartlogo.png'
+import loginlogo from '../Assets/Images/login-logo.png'
+
+import { Link } from 'react-router-dom'
 
 const Header = () => {
   return (
     <div>
      <nav class="navbar navbar-expand-lg navbar navbar-dark bg-dark">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">Navbar</a>
+    <a class="navbar-brand" href="#">E-Mart</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -17,7 +21,12 @@ const Header = () => {
         <li class="nav-item">
           <a class="nav-link" href="#">Orders</a>
         </li>
-        
+       <a href='/mycart'>
+       <img class="cart-logo"src={logo}/>
+       </a>
+       <a href='/mycart'>
+       <img class="login-logo"src={loginlogo}/>
+       </a>
        
       </ul>
       
