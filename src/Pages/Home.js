@@ -1,7 +1,7 @@
 import React from 'react'
 import Sliderimage from '../Components/Sliderimage'
 import Header from '../Navigation/Header'
-import ProductX from '../Components/ProductX.js'
+import ProductX from "../Components/ProductX"
 const Home = () => {
   return (
     <div>
