@@ -17,17 +17,17 @@ const ProductX = () => {
                     </div>
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-3-186-116._SY116_CB636110853_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-3-186-116._SY116_CB636110853_.jpg" />
                         <p>Footwear</p>
                     </div>
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_3._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_3._SY116_CB606110532_.jpg" />
                         <p>Watches</p>
                     </div>
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-4-186-116._SY116_CB636110853_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-4-186-116._SY116_CB636110853_.jpg" />
                         <p>Bags & language</p>
                     </div>
                 </div>
@@ -38,74 +38,74 @@ const ProductX = () => {
                 <div class="card-product-nested-card">
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Furniture/furniture_node_1/372_232_03_low._SY116_CB605507312_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/IMG20/Furniture/furniture_node_1/372_232_03_low._SY116_CB605507312_.jpg" />
                         <p>Sofa cum beds</p>
                     </div>
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Furniture/furniture_node_1/372_232_04_low._SY116_CB605507312_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/IMG20/Furniture/furniture_node_1/372_232_04_low._SY116_CB605507312_.jpg" />
                         <p>Office chairs & study</p>
                     </div>
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Furniture/furniture_node_1/372_232_01_low._SY116_CB605507312_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/IMG20/Furniture/furniture_node_1/372_232_01_low._SY116_CB605507312_.jpg" />
                         <p>Bean bags</p>
                     </div>
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Furniture/furniture_node_1/372_232_02_low._SY116_CB605507312_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/IMG20/Furniture/furniture_node_1/372_232_02_low._SY116_CB605507312_.jpg" />
                         <p>Explore all</p>
                     </div>
                 </div>
                 <button class="card-product-btn">Visit our furniture store</button>
             </div>
             <div class="card-product">
-                <h2>Top rated, premium quality | Amazon Brands &</h2>
+                <h2>Top rated, premium quality | Emart Brands &</h2>
                 <div class="card-product-nested-card">
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_1._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_1._SY116_CB606110532_.jpg" />
                         <p>Home Products</p>
                     </div>
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_5._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_5._SY116_CB606110532_.jpg" />
                         <p>Furniture</p>
                     </div>
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_3._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_3._SY116_CB606110532_.jpg" />
                         <p>Daily essentials</p>
                     </div>
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_8._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_8._SY116_CB606110532_.jpg" />
                         <p>Fashion</p>
                     </div>
                 </div>
                 <button class="card-product-btn">see more</button>
             </div>
             <div class="card-product">
-                <h2>Top rated, premium quality | Amazon Brands &</h2>
+                <h2>Top rated, premium quality | Emart Brands &</h2>
                 <div class="card-product-nested-card">
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_1._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_1._SY116_CB606110532_.jpg" />
                         <p>Home Products</p>
                     </div>
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_5._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_5._SY116_CB606110532_.jpg" />
                         <p>Furniture</p>
                     </div>
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_3._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_3._SY116_CB606110532_.jpg" />
                         <p>Daily essentials</p>
                     </div>
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_8._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_8._SY116_CB606110532_.jpg" />
                         <p>Fashion</p>
                     </div>
                 </div>
@@ -115,104 +115,104 @@ const ProductX = () => {
 
         <div class="card-product-container container productBackgraound">
             <div class="card-product">
-                <h2>Top rated, premium quality | Amazon Brands &</h2>
+                <h2>Top rated, premium quality | Emart Brands &</h2>
                 <div class="card-product-nested-card">
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_1._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_1._SY116_CB606110532_.jpg" />
                         <p>Home Products</p>
                     </div>
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_5._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_5._SY116_CB606110532_.jpg" />
                         <p>Furniture</p>
                     </div>
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_3._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_3._SY116_CB606110532_.jpg" />
                         <p>Daily essentials</p>
                     </div>
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_8._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_8._SY116_CB606110532_.jpg" />
                         <p>Fashion</p>
                     </div>
                 </div>
                 <button class="card-product-btn">see more</button>
             </div>
             <div class="card-product">
-                <h2>Top rated, premium quality | Amazon Brands &</h2>
+                <h2>Top rated, premium quality | Emart Brands &</h2>
                 <div class="card-product-nested-card">
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_1._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_1._SY116_CB606110532_.jpg" />
                         <p>Home Products</p>
                     </div>
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_5._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_5._SY116_CB606110532_.jpg" />
                         <p>Furniture</p>
                     </div>
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_3._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_3._SY116_CB606110532_.jpg" />
                         <p>Daily essentials</p>
                     </div>
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_8._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_8._SY116_CB606110532_.jpg" />
                         <p>Fashion</p>
                     </div>
                 </div>
                 <button class="card-product-btn">see more</button>
             </div>
             <div class="card-product">
-                <h2>Top rated, premium quality | Amazon Brands &</h2>
+                <h2>Top rated, premium quality | Emart Brands &</h2>
                 <div class="card-product-nested-card">
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_1._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_1._SY116_CB606110532_.jpg" />
                         <p>Home Products</p>
                     </div>
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_5._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_5._SY116_CB606110532_.jpg" />
                         <p>Furniture</p>
                     </div>
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_3._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_3._SY116_CB606110532_.jpg" />
                         <p>Daily essentials</p>
                     </div>
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_8._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_8._SY116_CB606110532_.jpg" />
                         <p>Fashion</p>
                     </div>
                 </div>
                 <button class="card-product-btn">see more</button>
             </div>
             <div class="card-product">
-                <h2>Top rated, premium quality | Amazon Brands &</h2>
+                <h2>Top rated, premium quality | Emart Brands &</h2>
                 <div class="card-product-nested-card">
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_1._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_1._SY116_CB606110532_.jpg" />
                         <p>Home Products</p>
                     </div>
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_5._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_5._SY116_CB606110532_.jpg" />
                         <p>Furniture</p>
                     </div>
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_3._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_3._SY116_CB606110532_.jpg" />
                         <p>Daily essentials</p>
                     </div>
                     <div class="card-nested">
                         <img
-                            src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/BAU/Oct/186X116_8._SY116_CB606110532_.jpg" />
+                            src="https://images-eu.ssl-images-Emart.com/images/G/31/img22/BAU/Oct/186X116_8._SY116_CB606110532_.jpg" />
                         <p>Fashion</p>
                     </div>
                 </div>
@@ -239,7 +239,7 @@ const ProductX = () => {
 
             <div class="today_deals_product_list">
                 <div class="today_deals_product_item">
-                    <img src="https://m.media-amazon.com/images/I/411mbYGYIdL._AC_SY200_.jpg"/>
+                    <img src="https://m.media-Emart.com/images/I/411mbYGYIdL._AC_SY200_.jpg"/>
                     <div class="discount_Contaienr">
                         <a href="#">Up to 52% off</a>
                         <a href="#">Deal of the day</a>
@@ -248,7 +248,7 @@ const ProductX = () => {
                 </div>
 
                 <div class="today_deals_product_item">
-                    <img src="https://m.media-amazon.com/images/I/411mbYGYIdL._AC_SY200_.jpg"/>
+                    <img src="https://m.media-Emart.com/images/I/411mbYGYIdL._AC_SY200_.jpg"/>
                     <div class="discount_Contaienr">
                         <a href="#">Up to 52% off</a>
                         <a href="#">Deal of the day</a>
@@ -257,7 +257,7 @@ const ProductX = () => {
                 </div>
 
                 <div class="today_deals_product_item">
-                    <img src="https://m.media-amazon.com/images/I/411mbYGYIdL._AC_SY200_.jpg"/>
+                    <img src="https://m.media-Emart.com/images/I/411mbYGYIdL._AC_SY200_.jpg"/>
                     <div class="discount_Contaienr">
                         <a href="#">Up to 52% off</a>
                         <a href="#">Deal of the day</a>
@@ -266,7 +266,7 @@ const ProductX = () => {
                 </div>
 
                 <div class="today_deals_product_item">
-                    <img src="https://m.media-amazon.com/images/I/411mbYGYIdL._AC_SY200_.jpg"/>
+                    <img src="https://m.media-Emart.com/images/I/411mbYGYIdL._AC_SY200_.jpg"/>
                     <div class="discount_Contaienr">
                         <a href="#">Up to 52% off</a>
                         <a href="#">Deal of the day</a>
@@ -275,7 +275,7 @@ const ProductX = () => {
                 </div>
 
                 <div class="today_deals_product_item">
-                    <img src="https://m.media-amazon.com/images/I/411mbYGYIdL._AC_SY200_.jpg"/>
+                    <img src="https://m.media-Emart.com/images/I/411mbYGYIdL._AC_SY200_.jpg"/>
                     <div class="discount_Contaienr">
                         <a href="#">Up to 52% off</a>
                         <a href="#">Deal of the day</a>
