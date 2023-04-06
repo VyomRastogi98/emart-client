@@ -18,15 +18,13 @@ const Header = () => {
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#">Home</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Orders</a>
-        </li>
-       <a href='/mycart'>
+        <Link class="nav-item" to='/productpage'>
+           All Products 
+        </Link>
+       <Link to='/cart'>
        <img class="cart-logo"src={logo}/>
-       </a>
-       <a href='/mycart'>
-       <img class="login-logo"src={loginlogo}/>
-       </a>
+       </Link>
+      
        
       </ul>
       

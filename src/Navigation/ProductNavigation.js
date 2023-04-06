@@ -20,7 +20,7 @@ function ProductNavigation() {
   }
   return (
     <>
-      <Navbar bg="light" expand="lg" fixed="top">
+      <Navbar bg="dark" expand="lg" variant="dark"fixed="top">
         <Container fluid>
           <Navbar.Brand>E-mart</Navbar.Brand>
           <Navbar.Toggle aria-controls="navbarScroll" />

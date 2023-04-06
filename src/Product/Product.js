@@ -1,17 +1,15 @@
 import axios from "axios";
 import React, { useEffect, useState } from "react";
 import ProductNavigation from "../Navigation/ProductNavigation";
+import ImageChange from "./imageChange";
 import ProductComponent from "./ProductComponent";
 
 export default function Product() {
   const [productData1, setProductData1] = useState([]);
 
-  let session1 = sessionStorage.getItem("data");
-  // console.log(session1);
-
   // Use effect to get data.
   useEffect(() => {
-    axios.get("http://localhost:9100/products").then((response) => {
+    axios.get("http://localhost:8079/api/products").then((response) => {
       setProductData1(response.data);
     });
   }, []);
@@ -19,7 +17,8 @@ export default function Product() {
   return (
     <>
       <ProductNavigation />
-      <div className="productcart">
+      <ImageChange />
+      <div className="productcart" style={{ marginLeft: "15px" }}>
         {productData1.map((element) => {
           return (
             <>

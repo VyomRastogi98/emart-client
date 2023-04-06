@@ -33,7 +33,7 @@ const Login = () => {
               sessionStorage.removeItem("data");
               sessionStorage.setItem("data", ele.firstName);
             }
-            navigate("/");
+            navigate("/productpage");
             alert("Logged in Successfully");
           }
         //   alert("Invalid email or password. Please try again.");

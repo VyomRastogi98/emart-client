@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import axios from "axios";
 import { useEffect, useState } from "react";
 import Card from "react-bootstrap/Card";
@@ -18,6 +18,7 @@ function ProductComponent(props) {
         ele = {
           ...ele,
           mobileNo: parseInt(sessionStorage.getItem("data")),
+          totalPrice: ele.quantity * ele.price,
         };
         axios
           .post("http://localhost:9100/cart/add", ele)
@@ -27,25 +28,26 @@ function ProductComponent(props) {
   }
 
   useEffect(() => {
-    axios.get("http://localhost:9100/products").then((response) => {
+    axios.get("http://localhost:8079/api/product").then((response) => {
       setProductData1(response.data);
     });
   }, []);
 
   return (
-    <Card id="cart" style={{ width: "18rem" }}>
-      <Card.Img variant="top" src={props.data.imageUrl} className="cardImg" />
+    <Card id="cart" style={{ width: "18rem" }} data-testid={props.data.id}>
+      <Card.Img className="carImg" variant="top" src={props.data.imageUrl} />
+
       <Card.Body>
         <Card.Title>{props.data.name}</Card.Title>
         <Card.Text></Card.Text>
       </Card.Body>
       <ListGroup className="list-group-flush">
         <ListGroup.Item>PRICE: {props.data.price}</ListGroup.Item>
-        <ListGroup.Item>KILO PRICE: {props.data.quantity} </ListGroup.Item>
+        <ListGroup.Item>PRICE: {props.data.quantity} </ListGroup.Item>
       </ListGroup>
       <Card.Body>
         <button
-          id="addcart"
+          className="addcart"
           disabled={cartAdd}
           onClick={() => cartHandler(props.data.id)}
         >
